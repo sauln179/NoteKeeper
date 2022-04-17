@@ -8,7 +8,7 @@ const { v4: uuidv4 } = require('uuid');
 //Fs to read and write to file
 const readNote = util.promisify(fs.readFile);
 const writeNote = util.promisify(fs.writeFile);
-
+//Creates a main Save class
 class Save {
     write(note) {
         return writeNote('db/db.json', JSON.stringify(note));
