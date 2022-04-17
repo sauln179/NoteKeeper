@@ -1,6 +1,6 @@
 
   # NoteKeeper<br>
-  NoteKeeper (https://note-reservation.herokuapp.com/notes) <-- Click Here to go to deployed app.
+  [NoteKeeper] (https://note-reservation.herokuapp.com/notes) <-- Click Here to go to deployed app.
   ## Open
   [![License: Open Data Commons Attribution](https://img.shields.io/badge/License-ODC_BY-brightgreen.svg)](https://opendatacommons.org/licenses/by/)
 
